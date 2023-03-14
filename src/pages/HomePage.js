@@ -9,6 +9,7 @@ function HomePage() {
       <div className="p-3">
         <Header />
       </div>
+      
       <div className="flex p-3">
         <div className="mr-2 w-1/3">
           <DailyTask />
