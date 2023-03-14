@@ -3,7 +3,7 @@ import React from "react";
 import DailyTask from "../components/DailyTask";
 import Header from "../components/Header";
 
-function HomePage() {
+function HomePage() { 
   return (
     <div className="flex-col w-full h-full">
       <div className="p-3">
